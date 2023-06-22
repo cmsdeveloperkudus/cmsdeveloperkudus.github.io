@@ -1,0 +1,304 @@
+{
+  "buyer_carrefour": [
+    {
+      "id": 1,
+      "product_name": "Product Example 1",
+      "weight": "83.32",
+      "price": 9847,
+      "minmax_order": [
+        5,
+        10872
+      ],
+      "quantity": 95,
+      "image": "https://www.placebeard.it/400x400/1"
+    },
+    {
+      "id": 2,
+      "product_name": "Product Example 2",
+      "weight": "88.09",
+      "price": 1794,
+      "minmax_order": [
+        2,
+        5866
+      ],
+      "quantity": 2,
+      "image": "https://www.placebeard.it/400x400/2"
+    },
+    {
+      "id": 3,
+      "product_name": "Product Example 3",
+      "weight": "58.34",
+      "price": 10781,
+      "minmax_order": [
+        3,
+        2852
+      ],
+      "quantity": 51,
+      "image": "https://www.placebeard.it/400x400/3"
+    },
+    {
+      "id": 4,
+      "product_name": "Product Example 4",
+      "weight": "27.84",
+      "price": 4430,
+      "minmax_order": [
+        5,
+        9644
+      ],
+      "quantity": 83,
+      "image": "https://www.placebeard.it/400x400/4"
+    },
+    {
+      "id": 5,
+      "product_name": "Product Example 5",
+      "weight": "63.77",
+      "price": 10928,
+      "minmax_order": [
+        2,
+        7570
+      ],
+      "quantity": 50,
+      "image": "https://www.placebeard.it/400x400/5"
+    },
+    {
+      "id": 6,
+      "product_name": "Product Example 6",
+      "weight": "5.64",
+      "price": 9849,
+      "minmax_order": [
+        1,
+        10323
+      ],
+      "quantity": 32,
+      "image": "https://www.placebeard.it/400x400/6"
+    },
+    {
+      "id": 7,
+      "product_name": "Product Example 7",
+      "weight": "97.86",
+      "price": 5167,
+      "minmax_order": [
+        1,
+        6566
+      ],
+      "quantity": 43,
+      "image": "https://www.placebeard.it/400x400/7"
+    },
+    {
+      "id": 8,
+      "product_name": "Product Example 8",
+      "weight": "24.55",
+      "price": 6289,
+      "minmax_order": [
+        4,
+        5246
+      ],
+      "quantity": 63,
+      "image": "https://www.placebeard.it/400x400/8"
+    },
+    {
+      "id": 9,
+      "product_name": "Product Example 9",
+      "weight": "54.12",
+      "price": 9258,
+      "minmax_order": [
+        3,
+        10594
+      ],
+      "quantity": 39,
+      "image": "https://www.placebeard.it/400x400/9"
+    },
+    {
+      "id": 10,
+      "product_name": "Product Example 10",
+      "weight": "84.24",
+      "price": 5193,
+      "minmax_order": [
+        3,
+        8795
+      ],
+      "quantity": 15,
+      "image": "https://www.placebeard.it/400x400/10"
+    },
+    {
+      "id": 11,
+      "product_name": "Product Example 11",
+      "weight": "100.74",
+      "price": 8260,
+      "minmax_order": [
+        4,
+        8329
+      ],
+      "quantity": 81,
+      "image": "https://www.placebeard.it/400x400/11"
+    },
+    {
+      "id": 12,
+      "product_name": "Product Example 12",
+      "weight": "78.46",
+      "price": 8887,
+      "minmax_order": [
+        5,
+        5394
+      ],
+      "quantity": 100,
+      "image": "https://www.placebeard.it/400x400/12"
+    },
+    {
+      "id": 13,
+      "product_name": "Product Example 13",
+      "weight": "26.27",
+      "price": 6967,
+      "minmax_order": [
+        4,
+        8989
+      ],
+      "quantity": 3,
+      "image": "https://www.placebeard.it/400x400/13"
+    },
+    {
+      "id": 14,
+      "product_name": "Product Example 14",
+      "weight": "14.45",
+      "price": 6132,
+      "minmax_order": [
+        3,
+        5211
+      ],
+      "quantity": 70,
+      "image": "https://www.placebeard.it/400x400/14"
+    },
+    {
+      "id": 15,
+      "product_name": "Product Example 15",
+      "weight": "88.19",
+      "price": 9380,
+      "minmax_order": [
+        5,
+        7297
+      ],
+      "quantity": 74,
+      "image": "https://www.placebeard.it/400x400/15"
+    },
+    {
+      "id": 16,
+      "product_name": "Product Example 16",
+      "weight": "22.41",
+      "price": 3995,
+      "minmax_order": [
+        1,
+        4846
+      ],
+      "quantity": 16,
+      "image": "https://www.placebeard.it/400x400/16"
+    },
+    {
+      "id": 17,
+      "product_name": "Product Example 17",
+      "weight": "41.53",
+      "price": 5652,
+      "minmax_order": [
+        5,
+        7634
+      ],
+      "quantity": 42,
+      "image": "https://www.placebeard.it/400x400/17"
+    },
+    {
+      "id": 18,
+      "product_name": "Product Example 18",
+      "weight": "81.81",
+      "price": 9464,
+      "minmax_order": [
+        5,
+        5086
+      ],
+      "quantity": 5,
+      "image": "https://www.placebeard.it/400x400/18"
+    },
+    {
+      "id": 19,
+      "product_name": "Product Example 19",
+      "weight": "38.44",
+      "price": 7324,
+      "minmax_order": [
+        4,
+        7818
+      ],
+      "quantity": 31,
+      "image": "https://www.placebeard.it/400x400/19"
+    },
+    {
+      "id": 20,
+      "product_name": "Product Example 20",
+      "weight": "29.60",
+      "price": 10504,
+      "minmax_order": [
+        2,
+        7986
+      ],
+      "quantity": 82,
+      "image": "https://www.placebeard.it/400x400/20"
+    },
+    {
+      "id": 21,
+      "product_name": "Product Example 21",
+      "weight": "1.27",
+      "price": 8050,
+      "minmax_order": [
+        4,
+        2790
+      ],
+      "quantity": 4,
+      "image": "https://www.placebeard.it/400x400/21"
+    },
+    {
+      "id": 22,
+      "product_name": "Product Example 22",
+      "weight": "15.59",
+      "price": 1400,
+      "minmax_order": [
+        2,
+        7074
+      ],
+      "quantity": 67,
+      "image": "https://www.placebeard.it/400x400/22"
+    },
+    {
+      "id": 23,
+      "product_name": "Product Example 23",
+      "weight": "28.55",
+      "price": 5137,
+      "minmax_order": [
+        4,
+        1919
+      ],
+      "quantity": 66,
+      "image": "https://www.placebeard.it/400x400/23"
+    },
+    {
+      "id": 24,
+      "product_name": "Product Example 24",
+      "weight": "97.45",
+      "price": 3271,
+      "minmax_order": [
+        5,
+        1489
+      ],
+      "quantity": 46,
+      "image": "https://www.placebeard.it/400x400/24"
+    },
+    {
+      "id": 25,
+      "product_name": "Product Example 25",
+      "weight": "42.81",
+      "price": 1198,
+      "minmax_order": [
+        2,
+        5241
+      ],
+      "quantity": 26,
+      "image": "https://www.placebeard.it/400x400/25"
+    }
+  ]
+}
